@@ -1,7 +1,7 @@
 " Initialization commands for Vim.
 "
 " Author:       Mitja Sainio <msainio@protonmail.com>
-" Last Change:  2026 Feb 04
+" Last Change:  2026 Sep 24
 
 " important
 set nocompatible
@@ -32,7 +32,7 @@ set ruler
 set confirm
 
 " editing text
-set textwidth=99
+set textwidth=88
 set backspace=indent,eol,start
 set showmatch
 
