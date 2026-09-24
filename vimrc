@@ -14,6 +14,7 @@ set smartcase
 " displaying text
 set nowrap
 set cmdheight=2
+set number
 
 " syntax, highlighting and spelling
 filetype plugin indent on
