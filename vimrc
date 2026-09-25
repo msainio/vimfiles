@@ -1,10 +1,7 @@
 " Initialization commands for Vim.
 "
 " Author:       Mitja Sainio <msainio@protonmail.com>
-" Last Change:  2026 Sep 24
-
-" important
-set nocompatible
+" Last Change:  2026 Sep 25
 
 " moving around, searching and patterns
 set incsearch
@@ -43,9 +40,6 @@ set softtabstop=4
 set expandtab
 set autoindent
 set smartindent
-
-" reading and writing files
-set nomodeline
 
 " command line editing
 set wildmode=longest,list
